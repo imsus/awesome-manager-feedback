@@ -1,6 +1,8 @@
 # Awesome Manager Feedback
 This repository is intended for Managers who needs some inspiration for giving feedback to your team.
 
+Most of the content copied from [here](https://www.employeeconnect.com/blog/example-performance-review-phrases-for-common-skills-competencies/)
+
 ## Communications
 - Effectively communicates his/her point of view and expectations
 - Effectively manages communication at all levels (lateral, upward, or downward flow of communication)
